@@ -1,0 +1,46 @@
+body{
+	text-align: center;
+	color: #000000;
+	font-size: 69px;
+	background: gray;
+	margin: 0;
+}
+div{
+
+}
+.menu{
+	list-style: none;
+}
+.menu a{
+	margin: 40px;
+	padding: 20px;
+	background: rgba(30,120,80,0.3);
+}
+#logo{
+	
+}
+.box{
+	border: 2px solid #333333;
+	background: rgb(120, 60, 250);
+	padding: 40px;
+	width: 50%;
+	color: #999;
+}
+#jednojedyne{
+	font-size: 20px;
+	padding: 10px;
+	text-align: right; 
+	display: flex;
+	align-items: center;
+	
+}
+.container{
+	
+}
+.container h1 {
+		text-align: center;
+}
+.row{
+	display: flex;
+	flex-direction: row;
+}
